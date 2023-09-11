@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PokemonQuiz</string>
+    <string name="question_bulbasaur">Bulbasaur is a grass type pokemon.</string>
+    <string name="question_charizard">Charizard breathes water.</string>
+    <string name="question_psyduck">Psyduck is a Water type.</string>
+    <string name="question_lechonk">Lechonk can shoot metal.</string>
+    <string name="question_pikachu">Pikachu can use thunderbolt.</string>
+    <string name="question_snorlax">Snorlax likes to sleep.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!?!?</string>
+    <string name="judgment_toast">Cheating is wrong how could you do this!!</string>
+</resources>
